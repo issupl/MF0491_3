@@ -1,4 +1,4 @@
-# Practica de evaluación MF0491_3
+# Práctica de evaluación MF0491_3
 En esta práctica se pretende evaluar sutílmente los conocimientos adquiridos durante estas semanas.
 
 ## Práctica a realizar
